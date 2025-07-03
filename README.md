@@ -23,6 +23,4 @@ Hello, I'm Fazar Maulana, a Computer Science student passionate about **Web Deve
 ### PLAY GAMES WITH ME 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
+<img src="https://raw.githubusercontent.com/itszarmaull/itszarmaull/output/snake.svg" alt="Snake animation" />
