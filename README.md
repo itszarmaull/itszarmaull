@@ -2,29 +2,43 @@
 
 Hello, I'm Fazar Maulana, a Computer Science student passionate about **Web Development** and **Networking**. I love exploring new technologies, contributing to web-based projects, and diving deep into networking concepts.
 
-![Fazar's Learning Journey](img/cat.jpg)
+![Fazar's Learning Journey](img/github-header-image.png)
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 - 🎓 Computer Science Student
 - 🌐 Web Developer Enthusiast
 - 🌍 Passionate about Technology and Networking
 - 💡 Always eager to learn new things in the tech world
 
-## 🛠️ Skills
-- **Programming Languages:** HTML, CSS, JavaScript, PHP, Python
-- **Frameworks:** React, Node.js, Express.js
-- **Database:** MySQL, MongoDB
-- **Tools & Technologies:** Git, Docker, Linux
-- **Networking:** TCP/IP, Routing, Firewall, VPN
+### 🛠️ Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-## 🚀 Learning Progress in 2025
-- ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white) [Laravel](https://laravel.com) 📚
-- ![React.js](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) [React.js](https://reactjs.org) ⚛️
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white) [MongoDB](https://www.mongodb.com) 🗃️
-- ![Express.js](https://img.shields.io/badge/-Express.js-dark?logo=express&logoColor=white) [Express.js](https://expressjs.com) 🚀
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen?logo=vue.js&logoColor=white) [Vue.js](https://vuejs.org) 🔥
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+">
 
-## 📬 Contact Me
-- 📧 [Email](mailto:zarmaull179@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fazar-maulana-359a5a246/)
-- 🐙 [GitHub](https://github.com/istzarmaull)
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+### 🚀 Learning Progress in 2025
+<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src= "https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
+
+
+### 📬 Connect with me
+![mailto:zarmaull179@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://instagram.com/zarmaull_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/fazar-maulana-359a5a246](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/istzarmaull](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+
+### PLAY GAMES WITH ME 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
