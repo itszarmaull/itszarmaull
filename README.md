@@ -20,6 +20,9 @@ Hello, I'm Fazar Maulana, a Computer Science student passionate about **Web Deve
 ### 📬 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarmaull179@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zarmaull_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazar-maulana-359a5a246) [![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/istzarmaull)
 
-
 ### PLAY GAMES WITH ME 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
